@@ -1,3 +1,3 @@
 import cowsay
 
-cowsay.dragon("rawr!")
+cowsay.stimpy("Happy Happy Joy Joy!")
